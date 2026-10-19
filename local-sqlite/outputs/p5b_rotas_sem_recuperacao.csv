@@ -1,0 +1,16 @@
+rota,origem_nome,destino_nome,partidas_atrasadas,atraso_partida_medio_min,atraso_chegada_medio_min,recuperado_medio_min
+SBGR > SLVR,Guarulhos - Governador André Franco Montoro,SLVR,265,50.9,56.8,-5.9
+KMIA > SBGR,KMIA,Guarulhos - Governador André Franco Montoro,664,162.2,164.8,-2.6
+SBNF > SBGR,Ministro Victor Konder,Guarulhos - Governador André Franco Montoro,402,48.9,51.4,-2.6
+SBCF > SBSP,Tancredo Neves,São Paulo/Congonhas - Deputado Freitas Nobre,1174,49.1,50.8,-1.7
+SBNF > SBSP,Ministro Victor Konder,São Paulo/Congonhas - Deputado Freitas Nobre,445,45.5,46.5,-1.0
+SBRJ > SBSP,Santos Dumont,São Paulo/Congonhas - Deputado Freitas Nobre,1843,48.9,49.8,-0.8
+SBVT > SBCF,Eurico de Aguiar Salles,Tancredo Neves,219,63.2,63.8,-0.6
+KMIA > SBGL,KMIA,RIO DE JANEIRO/GALEÃO - ANTÔNIO CARLOS JOBIM,228,287.2,287.7,-0.5
+SBGR > KMIA,Guarulhos - Governador André Franco Montoro,KMIA,356,81.2,81.6,-0.4
+SBGR > SBCA,Guarulhos - Governador André Franco Montoro,Aeroporto Regional do Oeste - Cel. Adalberto Mendes da Silva - Cascavel - Paraná,228,44.1,44.5,-0.4
+SBCG > SBGR,Aeroporto Internacional de Campo Grande - Ueze Elias Zahran,Guarulhos - Governador André Franco Montoro,342,51.4,51.8,-0.3
+SBGR > SBFL,Guarulhos - Governador André Franco Montoro,Hercílio Luz,1088,44.6,44.6,-0.0
+SBKP > SBCF,Viracopos,Tancredo Neves,428,44.7,44.7,-0.0
+SBPS > SBSP,Porto Seguro,São Paulo/Congonhas - Deputado Freitas Nobre,271,47.0,46.9,0.0
+SABE > SBGR,SABE,Guarulhos - Governador André Franco Montoro,939,53.5,53.4,0.1

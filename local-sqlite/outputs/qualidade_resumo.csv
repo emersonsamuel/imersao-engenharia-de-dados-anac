@@ -1,0 +1,10 @@
+regra,severidade,linhas,pct_do_total
+Q01_sem_horario_previsto,quarentena,30800,3.035
+Q02_duplicata_exata,quarentena,41,0.004
+Q03_atraso_extremo,quarentena,295,0.029
+Q04_cancelado_com_horario_real,quarentena,0,0.0
+Q05_realizado_sem_horario_real,quarentena,0,0.0
+Q06_chegada_antes_da_partida,quarentena,0,0.0
+Q07_situacao_desconhecida,quarentena,0,0.0
+Q08_origem_igual_destino,alerta,4097,0.404
+Q09_horario_com_fracao,alerta,79793,7.864

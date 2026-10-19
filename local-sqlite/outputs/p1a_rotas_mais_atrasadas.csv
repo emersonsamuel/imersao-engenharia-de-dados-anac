@@ -1,0 +1,16 @@
+rota,origem_nome,destino_nome,voos,atraso_medio_min,pct_atraso_15
+KMIA > SBGL,KMIA,RIO DE JANEIRO/GALEÃO - ANTÔNIO CARLOS JOBIM,541,114.7,42.1
+KMIA > SBKP,KMIA,Viracopos,843,82.9,41.0
+KMIA > SBGR,KMIA,Guarulhos - Governador André Franco Montoro,1912,52.1,34.7
+KJFK > SBGR,KJFK,Guarulhos - Governador André Franco Montoro,1052,37.8,25.2
+SBGR > MDPC,Guarulhos - Governador André Franco Montoro,MDPC,545,37.4,39.3
+MDPC > SBGR,MDPC,Guarulhos - Governador André Franco Montoro,539,34.0,50.1
+SABE > SBFL,SABE,Hercílio Luz,1011,30.0,32.4
+LPPT > SBKP,LPPT,Viracopos,636,29.4,47.6
+SBGR > SCEL,Guarulhos - Governador André Franco Montoro,SCEL,4260,27.3,32.9
+SBGR > SAEZ,Guarulhos - Governador André Franco Montoro,SAEZ,1492,27.2,43.9
+SBFL > SAEZ,Hercílio Luz,SAEZ,615,25.7,27.5
+LPPT > SBRF,LPPT,AEROPORTO INTERNACIONAL RECIFE/GUARARAPES - GILBERTO FREYRE,556,25.0,54.7
+SBGR > OTHH,Guarulhos - Governador André Franco Montoro,OTHH,817,24.9,24.4
+OTHH > SBGR,OTHH,Guarulhos - Governador André Franco Montoro,794,24.4,39.2
+LPPT > SBGL,LPPT,RIO DE JANEIRO/GALEÃO - ANTÔNIO CARLOS JOBIM,613,23.6,55.3
