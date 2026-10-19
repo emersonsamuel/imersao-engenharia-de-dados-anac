@@ -1,0 +1,4 @@
+dados/
+build/
+*.db
+__pycache__/
